@@ -13,6 +13,9 @@ public class Main {
         car.headlights = "Halogen";
         car.regNo = "NV448";
 
+        System.out.println("Welcome to my car.");
+        System.out.println("Radio is set to 82mHz.");
+        System.out.println("Turn on the A/C.");
 
     }
 }
